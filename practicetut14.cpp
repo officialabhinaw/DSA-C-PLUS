@@ -24,7 +24,7 @@ int main()
 
     // now per subject grade
 
-    cout << "Percentage of grade";
+    cout << "Percentage ka grade";
     if (percentage >= 90)
     {
         cout << "\n Greade A \n  Excellect\n";
@@ -51,7 +51,7 @@ int main()
     }
     // subject by grade dsa
 
-    cout << "DSA grade";
+    cout << "DSA ka grade";
     if (dsa >= 90)
     {
         cout << "\n Greade A \n Excellect\n";
@@ -78,7 +78,7 @@ int main()
     }
     // subject by grade pps
 
-    cout << "pps grade";
+    cout << "pps ka grade";
     if (pps >= 90)
     {
         cout << "\n Greade A \n Excellect\n";
@@ -105,7 +105,7 @@ int main()
     }
     // subject by grade dstl
 
-    cout << "DSTL grade";
+    cout << "DSTL  ka grade";
     if (dstl >= 90)
     {
         cout << "\n  Greade A \n Excellect\n";
@@ -132,7 +132,7 @@ int main()
     }
     // subject by grade pythan
 
-    cout << "pythan grade";
+    cout << "pythan ka grade";
     if (pythan >= 90)
     {
         cout << "\n Greade A \n Excellect\n";
@@ -159,7 +159,7 @@ int main()
     }
     // subject by grade cloud
 
-    cout << " cloud grade";
+    cout << " cloud ka practgrade";
     if (cloud >= 90)
     {
         cout << "\n Greade A \n Excellect\n";
