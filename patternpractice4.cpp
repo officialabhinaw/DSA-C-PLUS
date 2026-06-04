@@ -1,0 +1,23 @@
+// it is actualy work on n*n so you written 3   1 2 3
+                                              //4 5 6 
+                                              // 7 8 9
+                                              // same pattern for abcd
+#include<iostream>
+using namespace std;
+  int main()
+{
+ int n;
+ cout<<"Enter a number n=";
+ cin>>n;
+ char ch='A';
+ for(int i=1;i<=n;i++)
+ {
+     for(int j=1;j<=n;j++)
+     {
+         cout<<ch<<" ";
+         ch++;
+     }
+    cout<<"\n"; 
+ }
+ return 0;
+}
