@@ -8,6 +8,7 @@
   * *
    *
 */
+// n-2 sa lisliya start kiya taki middle row copy na ho
 #include<iostream>
 using namespace std;
 int main()
